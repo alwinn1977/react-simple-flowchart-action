@@ -1,10 +1,10 @@
 {
-  "name": "react-simple-flowchart",
-  "description": "The simple React flowchart component based on flowchart.js",
-  "version": "1.2.4",
+  "name": "react-simple-flowchart-action",
+  "description": "The simple React flowchart component based on flowchart.js FOR ACTION",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "author": "alwinn1977",
-  "repository": "alwinn1977/react-simple-flowchart",
+  "repository": "alwinn1977/react-simple-flowchart-action",
   "license": "MIT",
   "scripts": {
     "compile": "babel src --out-dir lib",
